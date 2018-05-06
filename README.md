@@ -1,2 +1,8 @@
 # gorokhov.io
-Gorokhov.io website
+My website
+
+# Deploy
+```bash
+./deploy.sh
+```
+
